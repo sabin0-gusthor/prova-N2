@@ -12,7 +12,7 @@ Este repositório contém o projeto da Prova N2, que consiste em uma aplicação
 
 - **Back-end**: Spring Boot
 - **Front-end**: Angular
-- **Banco de Dados**: [Especifique o banco de dados utilizado, ex: MySQL, PostgreSQL, etc.]
+- **Banco de Dados**: MySQL
 
 ## Configuração e Execução
 
